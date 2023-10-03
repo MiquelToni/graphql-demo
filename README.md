@@ -6,4 +6,4 @@ Created with
 dotnet new webapi --framework net7.0
 ```
 
-Using graphql implementation from [graphql-dotnet](https://github.com/graphql-dotnet/graphql-dotnet)
+Using graphql implementation from [hot chocolate](https://chillicream.com/docs/hotchocolate/v13)
