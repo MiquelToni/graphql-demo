@@ -1,4 +1,4 @@
-namespace graphql_demo;
+namespace graphql_demo.Domain.Models;
 
 public class WeatherForecast
 {
