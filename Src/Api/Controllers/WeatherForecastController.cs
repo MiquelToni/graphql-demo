@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
-using graphql_demo.Domain.Models;
+using graphql_demo.Api.Models;
 
-namespace graphql_demo.Controllers;
+namespace graphql_demo.Api.Controllers;
 
 [ApiController]
 [Route("[controller]")]
